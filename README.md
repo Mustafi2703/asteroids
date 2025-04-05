@@ -43,5 +43,5 @@ A simple 2D space shooter game where the player controls a spaceship and must av
 9. Add a speed power-up
 10. Add bombs that can be dropped
 
-##License
+## License
 A personal project for education purposes.
