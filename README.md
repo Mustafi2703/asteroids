@@ -29,7 +29,7 @@ A simple 2D space shooter game where the player controls a spaceship and must av
 3. Run the game:
    python3 main.py
 
-##Extending the Project
+## Extending the Project
 1. Add a scoring system
 2. Implement multiple lives and respawning
 3. Add an explosion effect for the asteroids
